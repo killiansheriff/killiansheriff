@@ -20,7 +20,6 @@ I am a PhD student at <a href="https://freitas.mit.edu/" target="_blank">MIT</a>
 </br>
 
 📈 **My GitHub Stats:**
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KillianSheriff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillianSheriff&exclude_repo=PHYS_512_GITHUB&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
