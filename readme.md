@@ -14,7 +14,7 @@ I am a PhD student at <a href="https://freitas.mit.edu/" target="_blank">MIT</a>
 
 **Check out my latest repo:**
 
-- :star: <a href="https://github.com/killiansheriff/LovelyPlots" target="_blank">LovelyPlots</a>, a collection of matplotlib style sheets to nicely format figures for scientific papers, thesis and presentations while keeping them fully editable in Adobe Illustrator.                                                                                        
+- :star: <a href="https://github.com/killiansheriff/LovelyPlots" target="_blank">LovelyPlots</a>, a collection of matplotlib style sheets to nicely format figures for scientific papers, thesis and presentations while keeping them fully editable in Adobe Illustrator.                                                 
 
 
 </br>
@@ -23,5 +23,8 @@ I am a PhD student at <a href="https://freitas.mit.edu/" target="_blank">MIT</a>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KillianSheriff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillianSheriff&exclude_repo=PHYS_512_GITHUB&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillianSheriff&exclude_repo=PHYS_512_GITHUB&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
 </p>
+
+
+
