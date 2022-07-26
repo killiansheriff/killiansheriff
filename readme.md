@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/killiansheriff)
 
 
-### Glad to see you here! &nbsp; !
+### Glad to see you here! &nbsp;
 
 I am a PhD student at <a href="https://freitas.mit.edu/" target="_blank">MIT</a>, working on combining data science techniques with atomistic simulations to better understand microstructural evolution in high entropy alloys.
 
