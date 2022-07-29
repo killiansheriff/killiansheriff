@@ -14,7 +14,7 @@ I am a PhD student at <a href="https://freitas.mit.edu/" target="_blank">MIT</a>
 
 **Check out my latest repo:**
 
-- :star: <a href="https://github.com/killiansheriff/LovelyPlots" target="_blank">LovelyPlots</a>, a collection of matplotlib style sheets to nicely format figures for scientific papers, thesis and presentations while keeping them fully editable in Adobe Illustrator.                                                 
+- :star: <a href="https://github.com/killiansheriff/LovelyPlots" target="_blank">LovelyPlots</a>, a collection of matplotlib style sheets to nicely format figures for scientific papers, thesis and presentations while keeping them fully editable in Adobe Illustrator. [![GitHub stars](https://badgen.net/github/stars/killiansheriff/LovelyPlots)](https://GitHub.com/killiansheriff/LovelyPlots/stargazers/)                                               
 
 
 </br>
