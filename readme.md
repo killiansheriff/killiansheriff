@@ -16,6 +16,7 @@ I am a PhD student at <a href="https://freitas.mit.edu/" target="_blank">MIT</a>
 
 - :star: <a href="https://github.com/killiansheriff/LovelyPlots" target="_blank">LovelyPlots</a>, a collection of matplotlib style sheets to nicely format figures for scientific papers, thesis and presentations while keeping them fully editable in Adobe Illustrator. [![GitHub stars](https://badgen.net/github/stars/killiansheriff/LovelyPlots)](https://GitHub.com/killiansheriff/LovelyPlots/stargazers/) 
 - :star: <a href="https://github.com/killiansheriff/sbatchpy" target="_blank">sbatchpy</a>, a python package allowing easy sbatch job script creation and submissions on hpc clusters, directly from python. [![GitHub stars](https://badgen.net/github/stars/killiansheriff/sbatchpy)](https://GitHub.com/killiansheriff/sbatchpy/stargazers/)  
+- :star: <a href="killiansheriff.github.io/blog_e3nn" target="_blank">blog_e3nn</a>, a blog post of E(3)-equivariant neural networks.
 
 
 </br>
