@@ -19,11 +19,4 @@ I am a PhD student at <a href="https://freitas.mit.edu/" target="_blank">MIT</a>
 - :star: <a href="https://killiansheriff.github.io/blog_e3nn" target="_blank">blog_e3nn</a>, a blog post of E(3)-equivariant neural networks.
 
 
-</br>
 
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KillianSheriff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillianSheriff&exclude_repo=PHYS_512_GITHUB&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
-</p>
