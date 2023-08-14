@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a PhD student at <a href="https://freitas.mit.edu/" target="_blank">MIT</a>, working on combining data science techniques with atomistic simulations to better understand microstructural evolution in high-entropy alloys.
+I am a Ph.D. candidate at <a href="https://freitas.mit.edu/" target="_blank">MIT</a>, working on combining data science techniques with atomistic simulations to better understand microstructural evolution in high-entropy alloys.
 
 <!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" /> -->
   
