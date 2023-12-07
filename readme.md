@@ -7,7 +7,9 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a Ph.D. candidate at <a href="https://freitas.mit.edu/" target="_blank">MIT</a>, working on combining data science techniques with atomistic simulations to better understand microstructural evolution in high-entropy alloys.
+**About me:** I am a Ph.D. candidate in the [Department of Materials Science and Engineering](https://dmse.mit.edu) at [MIT](https://web.mit.edu), advised by [Prof. Rodrigo Freitas](https://freitas.mit.edu/). Prior to MIT, I graduated with an BSc. in Mathematics and Physics from [McGill University](https://mcgill.ca) in 2021. I am originally from [Cannes](https://www.cannes.com/en/index.html), a beautiful city nestled in the South of France.
+
+**Research interests:** My research interests lie at the intersection of materials science, machine learning and mathematics. Broadly, I am interested in combining data science techniques with cross-scale atomistic simulations to unravel physical phenomenon at an unprecedented resolution. I also enjoy designing computational workflows facilitating the characterization and discovery of materials.
 
 <!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" /> -->
   
