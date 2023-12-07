@@ -1,5 +1,5 @@
 <!-- https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645 -->
-### <samp>&gt; Hi there, I'm <a href="https://freitas.mit.edu/group-members/killian/](https://killiansheriff.github.io/" target="_blank">Killian Sheriff</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://killiansheriff.github.io/" target="_blank">Killian Sheriff</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/killiansheriff)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/killiansheriff)
